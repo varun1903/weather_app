@@ -1,4 +1,4 @@
-Weather-app with react framework
+WEATHER-APP WITH REACT FRAMEWORK
 
 In the project directory, you can run:
 
